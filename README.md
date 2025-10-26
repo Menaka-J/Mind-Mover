@@ -1,12 +1,12 @@
 # Mind Mover - The Ultimate Tile Challenge
 
-![Mind Mover Banner](<img width="1875" height="995" alt="image" src="https://github.com/user-attachments/assets/701814df-c3fb-4ad6-98e7-0b143b735a7b" />)
+![Mind Mover Banner](https://github.com/user-attachments/assets/701814df-c3fb-4ad6-98e7-0b143b735a7b)
 
 Mind Mover is a modern 8-tile sliding puzzle game built with **HTML, CSS, and JavaScript**. Test your logic and problem-solving skills by arranging the tiles in numerical order.
 
 ## 🎮 Live Demo
 
-[Play Mind Mover Now!](#) [<!-- Add your live demo link here -->](https://menaka-j.github.io/Mind-Mover/)
+[Play Mind Mover Now!](https://menaka-j.github.io/Mind-Mover/)
 
 ## ✨ Features
 
@@ -30,4 +30,4 @@ Mind Mover is a modern 8-tile sliding puzzle game built with **HTML, CSS, and Ja
 ```bash
 git clone https://github.com/Menaka-J/Mind-Mover.git
 cd Mind-Mover
-open index.html  # Or double-click the file in your file explorer
+# Open index.html in your browser
